@@ -16,11 +16,6 @@ Counter helps people keep track of incoming events and have a good time by readi
 
 - Share event via email/text.
 
-# Future plan: 
-- Fetch quotes from the Internet.
-
-- Add pulse animation to image view.
-
 # Visualization:
 
  ![](counterapp.gif)
